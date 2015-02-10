@@ -1,0 +1,6 @@
+[submodule "ext/rxcpp"]
+	path = ext/rxcpp
+	url = https://github.com/Reactive-Extensions/RxCpp.git
+[submodule "ext/catch"]
+	path = ext/catch
+	url = https://github.com/philsquared/Catch.git
